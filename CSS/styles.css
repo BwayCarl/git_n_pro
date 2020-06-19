@@ -4,7 +4,7 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    
+    padding: 20px;
     background-color: rgb(59, 147, 150);
     color: whitesmoke;
 }
@@ -39,7 +39,7 @@ a:link {
   
   a:hover {
     text-decoration: none;
-    color: lightsteelblue;
+    color: rgb(218, 107, 107);
     font-weight: 900;
   }
   
